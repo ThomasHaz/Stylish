@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Stylish_Example' do
+  pod 'Stylish', :path => '../'
+
+  target 'Stylish_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
