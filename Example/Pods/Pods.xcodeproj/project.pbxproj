@@ -43,7 +43,7 @@
 
 /* Begin PBXFileReference section */
 		1FE2555935FAC82C8E6F5157C85A145A /* Pods-Stylish_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-Stylish_Example.modulemap"; sourceTree = "<group>"; };
-		21326D9A023DCE45DBC62102AF22E4D9 /* Stylish.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Stylish.framework; path = Stylish.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		21326D9A023DCE45DBC62102AF22E4D9 /* Stylish.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Stylish.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2EE0BBC57B5602E24B7FF76F981653C0 /* Pods-Stylish_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Stylish_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		34BD4061FC02A4F45FC3EAF856232190 /* Stylish-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Stylish-prefix.pch"; sourceTree = "<group>"; };
 		39D4AD99FA87D5FB624B08F725DEE965 /* Pods-Stylish_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-Stylish_Tests.modulemap"; sourceTree = "<group>"; };
@@ -51,7 +51,7 @@
 		52DF81E0F602F915A0E8A1F8B15A1CD2 /* Pods-Stylish_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Stylish_Tests-dummy.m"; sourceTree = "<group>"; };
 		59325EA36BF2DFA3EE3564B689EDBAC3 /* Stylish.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Stylish.swift; path = Stylish/Classes/Stylish.swift; sourceTree = "<group>"; };
 		64214299BD79965C8B923C32BF377B96 /* Pods-Stylish_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Stylish_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		6444B13611BC41D38DF7473DA22004A1 /* Stylish.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = Stylish.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		6444B13611BC41D38DF7473DA22004A1 /* Stylish.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = Stylish.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		649AAE15F4F11E3AC808965D8D4E8EA8 /* StyleableComponents.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = StyleableComponents.swift; path = Stylish/Classes/StyleableComponents.swift; sourceTree = "<group>"; };
 		714B2F4DE808FB2E4C828693F3CE03C1 /* Stylish.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Stylish.xcconfig; sourceTree = "<group>"; };
 		7C3EA6A4B44B8CB8631E6DEF8D27BA47 /* Stylish-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Stylish-Info.plist"; sourceTree = "<group>"; };
@@ -60,18 +60,18 @@
 		84EF6A5DB74C7EE11451F272B680FFFD /* Pods-Stylish_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Stylish_Example.release.xcconfig"; sourceTree = "<group>"; };
 		8578E428B117658B8B8251C71BE64833 /* Pods-Stylish_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Stylish_Example-dummy.m"; sourceTree = "<group>"; };
 		863E82E6AFA2E179CEA2F3055A8AAADD /* Pods-Stylish_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Stylish_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A187D87F78F980CEF2960A789216B54A /* Pods-Stylish_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Stylish_Tests-Info.plist"; sourceTree = "<group>"; };
 		A544F030EDDBE8066191C1F890E0450E /* PropertyStylers.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PropertyStylers.swift; path = Stylish/Classes/PropertyStylers.swift; sourceTree = "<group>"; };
 		A836FD0D5C551AE9D7AC7AC43E5A69D5 /* JSONStylesheet.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = JSONStylesheet.swift; path = Stylish/Classes/JSONStylesheet.swift; sourceTree = "<group>"; };
 		AB8FB061B7B501D20FB5DC0FC177EB3B /* Pods-Stylish_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Stylish_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		AE7C3DCD824E3325C8AC3B6094A77F98 /* Pods_Stylish_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_Stylish_Tests.framework; path = "Pods-Stylish_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AE7C3DCD824E3325C8AC3B6094A77F98 /* Pods_Stylish_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Stylish_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		AF98605D93BBB44833A297800D6AB32A /* Stylish-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Stylish-dummy.m"; sourceTree = "<group>"; };
-		B8552B46EF4EAD7825DCC2AD092CBBEA /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		B8552B46EF4EAD7825DCC2AD092CBBEA /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		B868812ED82684A8EFAECDED14046832 /* Stylish.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = Stylish.modulemap; sourceTree = "<group>"; };
 		B91CE5BE957CF7BF9CB06B29FE63ED0D /* Pods-Stylish_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Stylish_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		BA0707D02F551D1F6E0E048045193320 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
-		C24F254E23BB02FBE221CBEA7D0E3149 /* Pods_Stylish_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_Stylish_Example.framework; path = "Pods-Stylish_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BA0707D02F551D1F6E0E048045193320 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		C24F254E23BB02FBE221CBEA7D0E3149 /* Pods_Stylish_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Stylish_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		D1C96F49ABE7C165E616CD2B9F352BCE /* Pods-Stylish_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Stylish_Example-umbrella.h"; sourceTree = "<group>"; };
 		D884F8EA37AD794B95C9CA79E2D1BBEE /* Stylish-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Stylish-umbrella.h"; sourceTree = "<group>"; };
@@ -337,6 +337,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
@@ -574,8 +575,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 4.2;
 				SYMROOT = "${SRCROOT}/../build";
 			};
